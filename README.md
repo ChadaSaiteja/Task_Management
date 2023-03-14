@@ -1,2 +1,2 @@
 # Task_Management
-It is small spring boot api about task management
+bakckend api that manages all the tasks of the user.It allows to all the crud operations on the tasks.
