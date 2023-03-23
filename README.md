@@ -1,2 +1,4 @@
 # Task_Management
-Backend api that manages all the tasks of the user.It allows to all the crud operations on the tasks.
+Task management API in Spring Boot is a RESTful web service that allows users to manage their tasks. This API enables users to perform CRUD (Create, Read, Update, Delete) operations on tasks.
+
+
